@@ -1,4 +1,5 @@
-<% if (theme.links.length){ %>
+<% if (!theme.links) {%>
+<% } else if (theme.links.length){ %>
 <div class="widget">
 	<h4><%= __('links') %></h4>
 	<ul class="blogroll list-unstyled">

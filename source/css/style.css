@@ -376,7 +376,8 @@ h6 {
     font-weight: bold;
     line-height: 1.2em;
     font-family: DOS, SimHei, Monaco, Menlo, Consolas, 'Courier New', monospace;
-    color: #fff
+    color: #fff;
+    text-transform: capitalize;
 }
 
 h2 {
@@ -536,7 +537,7 @@ hr {
 
 .logo {
     background: url("../favicon.png") no-repeat left top;
-    background-size: 5em
+    background-size: 4em
 }
 
 .logo>h1 {

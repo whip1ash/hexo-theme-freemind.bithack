@@ -1,6 +1,6 @@
-slogan: "wubba lubba dub dub."
+slogan: "身世酒杯中，万事皆空。"
 
-show_heart: true
+# show_heart: false
 
 show_slogan: true
 
@@ -27,10 +27,10 @@ menu:
     # icon: "fa fa-user"
 
 links:
-  - title: hexo-theme-bithack
-    url: https://github.com/Ares-X/hexo-theme-freemind.bithack
-    intro: ""
-    icon: false
+  # - title: 
+  #   url: https://github.com/Ares-X/hexo-theme-freemind.bithack
+  #   intro: ""
+  #   icon: false
 
   # - title: "My LinkedIn"
   #   url: http://www.linkedin.com/in/xxx
@@ -53,19 +53,19 @@ favicon: favicon.png
 # Analytics (change to yours)
 google_analytics:
   enable: true
-  siteid: UA-70812759-1
+  siteid: G-LLD9P3JH76
 
 
 # search
-#swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+swiftype_key: Qokm7azGTvyEEXDD5z_V
 #valine comment (change to yours)
 valine: 
   enable: true
-  appId: 'xxx'
-  appKey: 'xxx'
+  appId: 'IfL8bDN7TcQtxsNT8fFuTqfs-gzGzoHsz'
+  appKey: 'Yrn52pQO2efYU8eydgAlY63M'
   placeholder: "提交评论时留下邮箱收到回复后将自动通知"
   visitor: true
   avatar: 'monsterid'
-  requiredFields: ['nick','mail']
+  requiredFields: ['nick']
 
   
